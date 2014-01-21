@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Friend Tracker</title>
+
+</head>
+<div class="page-header">
+  <h1>Friend Tracker <small></small></h1>
+  
+</div>
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bootstrap 101 Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+
+  </head>
+
+  <body>
+  <nav class="navbar navbar-default" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Homepage</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Add friends</a></li>
+        <li><a href="#">Add travel info</a></li>
+      </ul>
+      <form class="navbar-form navbar-left" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">My Account</a></li>
+        <li><a href="#">Logout</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </nav>
+  <div class="container">
+     <!-- Jumbotron -->
+      <div class="jumbotron">
+        <h1>Your friends</h1>
+       
+        <p><a class="btn btn-lg btn-success" href="#" role="button">Find your friends</a></p>
+      </div>
+
+      <!-- Example row of columns -->
+      <<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img width="200" src="http://www.theworldtri.com/wp-content/uploads/2010/07/Charlie_Wittmack_Headshot-high-res.jpg">
+      <div class="caption">
+        <h3>Jeff Jones</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">View Profile</a> <a href="#" class="btn btn-default" role="button">Defriend</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img width="200" src="http://dallas-photographers.info/wp-content/uploads/2010/01/dallas-womens-headshot1.jpg">
+      <div class="caption">
+        <h3>Sally Wilkerson</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">View Profile</a> <a href="#" class="btn btn-default" role="button">Defriend</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img width="200" src="http://www.uphs.upenn.edu/news/News_Releases/feb07/TTAH-kit/Headshot-Morris.jpg">
+      <div class="caption">
+        <h3>Bob Smith</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">View Profile</a> <a href="#" class="btn btn-default" role="button">Defriend</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <!-- Site footer -->
+      <div class="footer">
+        <p>&copy; JS Apps 2013</p>
+      </div>
+
+  </div>
+
+  </body>
+
+
+
+</html>
+</html>
